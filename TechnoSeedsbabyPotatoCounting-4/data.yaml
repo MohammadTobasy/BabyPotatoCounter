@@ -1,0 +1,12 @@
+names:
+- Baby Potato
+nc: 1
+roboflow:
+  license: Private
+  project: technoseedsbabypotatocounting
+  url: https://app.roboflow.com/tobasys/technoseedsbabypotatocounting/4
+  version: 4
+  workspace: tobasys
+test: ../test/images
+train: ../train/images
+val: ../valid/images

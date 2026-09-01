@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Baby Potato']
+
+roboflow:
+  workspace: tobasys
+  project: technoseeds_fantechc30cam
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/tobasys/technoseeds_fantechc30cam/1
