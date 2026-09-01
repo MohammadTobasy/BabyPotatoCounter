@@ -1,0 +1,11 @@
+# Python junk
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Output files / Local runs
+runs/
+diagnostic_output/
+*.avi
+*.mp4
